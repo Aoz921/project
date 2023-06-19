@@ -62,4 +62,8 @@ HEAD ~ n => 当前版本的上n个版本
 【移除】 <—git reset --hard commit_id———【repo】
 
 
-把第三次提交回炉重做
+我们今天要学习的命令
+分支 branch 相关:
+
+
+-查看本地仓库分支 git branch
